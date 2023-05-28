@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Mont-Heavy';
+    border: 10px solid aquamarine;
+}
+.heading{
+    background-color: aqua;
+    box-shadow: 5px 5px 30px aqua;
+}
+@font-face {
+    font-family: 'Mont-Heavy';
+    src: url(Mont-HeavyDEMO.otf);
+}
+.btn_song{
+    box-shadow: 5px 5px 10px rgb(0, 153, 255);
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px white;
+}
